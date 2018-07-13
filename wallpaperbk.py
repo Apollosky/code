@@ -1,8 +1,8 @@
 import os
 import shutil
 
-clearnpath="d:/Common_program/MissMaggie2.0.0/DownloadedImage/"
-backuppath="//10.8.9.2/photo/Material/wallpaper/"
+clearnpath=""
+backuppath=""
 
 
 def app(clearnpath, backuppath):
